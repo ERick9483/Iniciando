@@ -1,5 +1,6 @@
 /*COnteo de numeros pares en una serie de numeros
-utilizando un while*/
+utilizando un while
+Explicacion del segundo comint*/
 #include<stdio.h>
 #include<stdlib.h>
 
